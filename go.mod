@@ -1743,6 +1743,7 @@ require (
 	github.com/dchest/bcrypt_pbkdf v0.0.0-20150205184540-83f37f9c154a // indirect
 	github.com/dchest/safefile v0.0.0-20151022103144-855e8d98f185 // indirect
 	github.com/dchest/siphash v1.2.3 // indirect
+        github.com/id-Software/quake2-rerelease-dll v0.0.0
 	github.com/dcloudio/mui v3.4.0+incompatible // indirect
 	github.com/dcloudio/uni-app v2.0.0+incompatible // indirect
 	github.com/ddbourgin/numpy-ml v0.0.0-20220108220020-b0359af5285f // indirect
